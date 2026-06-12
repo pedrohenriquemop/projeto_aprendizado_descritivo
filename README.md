@@ -22,6 +22,9 @@ Consulta de emendas parlamentares federais: https://portaldatransparencia.gov.br
 Tabela de Correspondência de Municípios (TSE/IBGE)
 Códigos oficiais de UF e municípios: https://dadosabertos.tse.jus.br/dataset/codigos-oficiais-de-uf-e-municipios-segundo-o-tse-e-o-ibge
 
+Dados COVID-19 (Ministério da Saúde/Secretarias Estaduais de Saúde)
+Parnorama dos Municípios Brasileiros:  https://github.com/wcota/covid19br/blob/master/cases-brazil-cities.csv
+
 ## Estrutura do Repositório
 
 Para manter a independência das análises, os scripts e as bases de dados específicas de cada membro estão estruturados em **branches diferentes**:
