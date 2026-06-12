@@ -14,6 +14,7 @@ Para manter a independência das análises, os scripts e as bases de dados espec
 - `vitor`: Análise voltada para o recebimento de emendas parlamentares federais e resultados eleitorais para o cargo de Senador.
 - `pedro`: Análise focada na assinatura socioeconômica e demográfica por trás da vitória no pleito Presidencial (2º Turno).
 - `joao`: Modelagem avançada com agregação em nível de candidato, redução de dimensionalidade via PCA e mineração do perfil geral dos candidatos eleitos.
+- `lucas`: Análise conjunta com dados da pandemia de COVID-19 para trajetória das eleições presidenciais de 2018 e 2022.
 
 ## Como Executar
 
