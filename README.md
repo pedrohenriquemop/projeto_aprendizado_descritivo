@@ -6,6 +6,22 @@ Este repositório contém o projeto prático desenvolvido para a disciplina de A
 
 O intuito do trabalho foi investigar a influência de indicadores municipais (como IDH, PIB e demografia) sobre fenômenos políticos nacionais através da tarefa de **Mineração de Subgrupos** (_Subgroup Discovery_). A abordagem metodológica baseou-se na exploração autônoma e descentralizada dos dados por cada membro da equipe.
 
+## Fontes de Dados
+
+As análises foram construídas a partir da integração de bases públicas disponibilizadas por órgãos oficiais brasileiros:
+
+Resultados das Eleições (TSE)
+Painéis de resultados eleitorais: https://sig.tse.jus.br/ords/dwapr/r/seai/sig-eleicao-resultados/pain%C3%A9is-de-resultados?session=13490862763763
+
+Indicadores Municipais (IBGE)
+Panorama dos Municípios Brasileiros: https://cidades.ibge.gov.br/brasil/mg/uba/panorama
+
+Emendas Parlamentares (Portal da Transparência)
+Consulta de emendas parlamentares federais: https://portaldatransparencia.gov.br/emendas/consulta?ordenarPor=autor&direcao=asc
+
+Tabela de Correspondência de Municípios (TSE/IBGE)
+Códigos oficiais de UF e municípios: https://dadosabertos.tse.jus.br/dataset/codigos-oficiais-de-uf-e-municipios-segundo-o-tse-e-o-ibge
+
 ## Estrutura do Repositório
 
 Para manter a independência das análises, os scripts e as bases de dados específicas de cada membro estão estruturados em **branches diferentes**:
